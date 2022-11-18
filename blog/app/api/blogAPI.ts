@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/v1/";
+const API_URL = "https://seal-app-5za3s.ondigitalocean.app/api/v1/";
 
 export interface Post {
   id: number;
